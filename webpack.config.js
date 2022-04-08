@@ -7,10 +7,4 @@ module.exports = {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist'),
   },
-  // plugins: [
-  //   new HtmlWebpackPlugin({
-  //     template: path.resolve(__dirname, 'public', 'index.html'),
-  //   }),
-  //   new ESLintPlugin({}),
-  // ],
 };
